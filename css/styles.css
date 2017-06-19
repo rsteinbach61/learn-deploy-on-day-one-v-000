@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#richard-steinbach-cover {
+    background-image: url("http://imgur.com/q3iBG6c.jpg");
+  }
+ 
+#richard-steinbach-card {
+    background-image: url("http://imgur.com/0d8fva7.jpg");
+  }
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
